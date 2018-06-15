@@ -1,0 +1,6 @@
+@inproceedings{kim2015MGM,
+  title={Mind the {G}ap: {A} Generative Approach to Interpretable Feature Selection and Extraction},
+  author={Kim, Been and Doshi-Velez, Finale and Shah, Julie A},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2015}
+}

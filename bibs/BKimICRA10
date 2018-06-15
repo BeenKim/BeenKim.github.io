@@ -1,0 +1,8 @@
+@inproceedings{kim2010multiple,
+  title={Multiple relative pose graphs for robust cooperative mapping},
+  author={Kim, Been and Kaess, Michael and Fletcher, Luke and Leonard, John and Bachrach, Abraham and Roy, Nicholas and Teller, Seth},
+  booktitle={Robotics and Automation (ICRA), 2010 IEEE International Conference on},
+  pages={3185--3192},
+  year={2010},
+  organization={IEEE}
+}
