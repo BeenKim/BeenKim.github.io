@@ -1,7 +1,0 @@
-@inproceedings{kim2014bayesian,
-  title={The {B}ayesian {C}ase {M}odel: A Generative Approach for Case-Based Reasoning and Prototype Classification},
-  author={Kim, Been and Rudin, Cynthia and Shah, Julie A},
-  booktitle={Advances in Neural Information Processing Systems},
-  pages={1952--1960},
-  year={2014}
-}

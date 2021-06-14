@@ -1,6 +1,0 @@
-@inproceedings{kim2016MMD,
-  title={Examples are not Enough, Learn to Criticize! {C}riticism for Interpretability},
-  author={Been Kim and Rajiv Khanna and Sanmi Koyejo },
-  booktitle={Advances in Neural Information Processing Systems},
-  year={2016}
-}
